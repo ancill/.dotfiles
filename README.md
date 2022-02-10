@@ -12,6 +12,7 @@
 
 - [RTX 3060](https://www.nvidia.com/Download/driverResults.aspx/186768/en-us)
 - [MSI afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+- [aida64 RAM check](https://www.aida64.com/downloads/NzlmZTllNmE=)
 - [VLC](https://www.videolan.org/vlc/)
 
 ## PowerShell setup (Windows)
