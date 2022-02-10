@@ -11,9 +11,9 @@
 ## Win drivers for my setup
 
 - [RTX 3060](https://www.nvidia.com/Download/driverResults.aspx/186768/en-us)
-- [MSI afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+- [MSI afterburner - overclock GPU](https://www.msi.com/Landing/afterburner/graphics-cards)
 - [aida64 RAM check](https://www.aida64.com/downloads/NzlmZTllNmE=)
-- [VLC](https://www.videolan.org/vlc/)
+- [Ryzen master - overclock CPU](https://www.amd.com/ru/technologies/ryzen-master)
 
 ## PowerShell setup (Windows)
 
